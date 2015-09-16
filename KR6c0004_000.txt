@@ -1,4 +1,4 @@
 #-*- mode: mandoku-view; -*-
 #+TITLE: 摩訶般若波羅蜜經
-#+DATE: 2015-08-30 19:41:56.044199
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-30 19:41:56.030760
+#+PROPERTY: JUAN 0
