@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:41:55.409580
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:20
 #+TITLE: 摩訶般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0223
 #+PROPERTY: ID KR6c0004
@@ -16,7 +16,7 @@
 ¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-78四攝品
+* 78四攝品
 :PROPERTIES:
 :head: 四攝品第七十八
 :END:
@@ -607,7 +607,7 @@
 眾生故。何以故？是菩薩摩訶薩善達一切諸¶
 法相故。」¶
 
-79善達品
+* 79善達品
 :PROPERTIES:
 :head: 《摩訶般若波羅蜜經》善達品第七十九
 :END:

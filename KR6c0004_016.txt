@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:41:55.135165
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:20
 #+TITLE: 摩訶般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0223
 #+PROPERTY: ID KR6c0004
@@ -15,7 +15,7 @@
 ¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-54大如品
+* 54大如品
 :PROPERTIES:
 :head: 大如品第五十四(丹本大如相品)
 :END:
@@ -551,7 +551,7 @@
 說是菩薩行品時，二千菩薩得無生法¶
 忍。¶
 
-55不退品
+* 55不退品
 :PROPERTIES:
 :head: 《摩訶般若波羅蜜經》不退品第五十五
 :END:

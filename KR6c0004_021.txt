@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:41:55.305879
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:20
 #+TITLE: 摩訶般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0223
 #+PROPERTY: ID KR6c0004
@@ -15,7 +15,7 @@
 ¶
 後秦龜茲國三藏鳩摩羅什譯¶
 
-69方便品
+* 69方便品
 :PROPERTIES:
 :head: 方便品第六十九
 :END:
@@ -546,7 +546,7 @@
 般若波羅蜜、修般若波羅蜜，得如是等利¶
 益。」¶
 
-70三慧品
+* 70三慧品
 :PROPERTIES:
 :head: 《摩訶般若波羅蜜經》三慧品第七十
 :END:
